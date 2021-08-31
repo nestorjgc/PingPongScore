@@ -15,7 +15,7 @@ Very simple program to play. The cube moves forward and the player must avoid ob
   - 3rd level is almost impossible.
 
 ## Preview
-![Alt Text](https://github.com/nestorjgc/Cubito-Unity-Game/blob/main/imgs/gif.gif)
+![Alt Text](https://github.com/nestorjgc/PingPongScore/blob/main/imgs/gif.gif)
 
 ## Nestor Garcia
 
