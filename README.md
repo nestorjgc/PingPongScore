@@ -1,18 +1,18 @@
-# Cubito
+# Ping Pong Score
 
 ## Introduction
+This program was made to keep track of a Ping Pong match for 2 players.
 
-Very simple program to play. The cube moves forward and the player must avoid obstacles in order to win the game. The game is made with 3 levels that users can play.
 ## Technologies Used
-- C#
-- Unity
-
-## Live Demo: 
+- JavaScript
+- Bulma
+- CSS
+- HTML
 
 ## Features:
-  - User can enjoy 3 levels.
-  - After the 1st level it gets really difficult.
-  - 3rd level is almost impossible.
+  - Users can choose how many point to win the game.
+  - After the goal is reached, users can loop the game and start over.
+  - If P1 or P2 wins, score will be green. For the player that loses, it will display red.
 
 ## Preview
 ![Alt Text](https://github.com/nestorjgc/PingPongScore/blob/main/imgs/gif.gif)
