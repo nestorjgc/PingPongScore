@@ -15,7 +15,7 @@ Very simple program to play. The cube moves forward and the player must avoid ob
   - 3rd level is almost impossible.
 
 ## Preview
-![Alt Text](https://github.com/nestorjgc/Cubito-Unity-Game/blob/main/imgs/ezgif.com-gif-maker(1).gif)
+![Alt Text](https://github.com/nestorjgc/Cubito-Unity-Game/blob/main/imgs/gif.gif)
 
 ## Nestor Garcia
 
