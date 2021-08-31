@@ -16,6 +16,7 @@ This program was made to keep track of a Ping Pong match for 2 players.
 
 ## Preview
 ![Alt Text](https://github.com/nestorjgc/PingPongScore/blob/main/imgs/gif.gif)
+##
 
 ## Nestor Garcia
 
